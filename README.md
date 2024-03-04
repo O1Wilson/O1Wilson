@@ -12,7 +12,7 @@ I've been learning how to code for nearly 4 years, after transitioning out of th
 * 🚀  I'm currently working on [Eternal Labyrinth](http://O1Wilson/Eternal-Labyrinth)
 * 🧠  I'm learning complex systems inside C++, and C#
 * 🤝  I'm open to collaborating on all things Game Design!
-* ⚡  Fun Fact: I can play 6 different Musical Instruments
+* ⚡  Fun Fact: I can play 6 different Musical Instruments!
 
 ### Skills
 
