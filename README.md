@@ -1,19 +1,24 @@
-Hi 👋 My name is Owen Wilson
+# Hi 👋 My name is Owen Wilson
 ============================
 
-Software Developer, Musician, Designer
-----------------------------------
+## About Me
+I'm a passionate software and game developer based in Dallas, TX. I transitioned from the music industry to the world of coding and have been honing my skills for nearly 4 years. I currently have 3 months of professional experience and am continuously expanding my knowledge and expertise.
 
-I've been learning how to code for nearly 4 years, after transitioning out of the music Industry I found that I have a passion for software/game development and design
+## Skills
+- **Programming Languages**: Python, JavaScript, CSS, HTML, C#, C++, SQL
+- **Game Development**: Unreal Engine, Unity
+- **Design & Modeling**: Blender, Asperite, Photoshop, Illustrator
+- **Frameworks & Libraries**: Flask, Django, pyodbc, React, Angular, Vue.js, Bootstrap, Tailwind CSS
+- **AI & Machine Learning**: Experienced in interacting with backend platforms such as OpenAI, Stable Diffusion, Adobe Firefly, Ideogram, Midjourney
+- **Tools**: API Tools, Adobe Platforms, Git, Docker, Jenkins, Postman, JIRA
 
-* 🌍  I'm based in Dallas, TX
+## Open to Opportunities
+I'm based in Dallas, TX, but I'm open to relocating or working remotely.
+
 * 🖥️  See my portfolio at [o1wilson.github.io/Portfolio/](http://o1wilson.github.io/Portfolio/)
 * ✉️  You can contact me at [O1Wilson2005@gmail.com](mailto:O1Wilson2005@gmail.com)
 * 🚀  I'm currently working on [FullStack_01](https://github.com/O1Wilson/FullStack_01)
-* 🧠  I'm learning complex systems inside C++, C#, and Python
-* 🤝  I'm open to collaborating on all things for Software Development!
-* ⚡  Fun Fact: I can play 6 different Musical Instruments!
-
+  
 ### Skills
 
 
