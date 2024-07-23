@@ -13,7 +13,7 @@ I'm a passionate software and game developer based in Dallas, TX. I transitioned
 - **Tools**: API Tools, Adobe Platforms, Git, Docker, Jenkins, Postman, JIRA
 
 ## Open to Opportunities
-I'm based in Dallas, TX, but I'm open to relocating or working remotely.
+I'm based in Dallas, TX, but I'm open to relocating/working remotely.
 
 * 🖥️  See my portfolio at [o1wilson.github.io/Portfolio/](http://o1wilson.github.io/Portfolio/)
 * ✉️  You can contact me at [O1Wilson2005@gmail.com](mailto:O1Wilson2005@gmail.com)
