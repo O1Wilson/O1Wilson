@@ -8,10 +8,10 @@ I've been learning how to code for nearly 4 years, after transitioning out of th
 
 * 🌍  I'm based in Dallas, TX
 * 🖥️  See my portfolio at [o1wilson.github.io/Portfolio/](http://o1wilson.github.io/Portfolio/)
-* ✉️  You can contact me at [Badgermouse583@gmail.com](mailto:Badgermouse583@gmail.com)
+* ✉️  You can contact me at [O1Wilson2005@gmail.com](mailto:O1Wilson2005@gmail.com)
 * 🚀  I'm currently working on [FullStack_01](https://github.com/O1Wilson/FullStack_01)
-* 🧠  I'm learning complex systems inside C++, and C#
-* 🤝  I'm open to collaborating on all things Game Design!
+* 🧠  I'm learning complex systems inside C++, C#, and Python
+* 🤝  I'm open to collaborating on all things for Software Development!
 * ⚡  Fun Fact: I can play 6 different Musical Instruments!
 
 ### Skills
