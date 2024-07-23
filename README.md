@@ -1,10 +1,10 @@
 Hi 👋 My name is Owen Wilson
 ============================
 
-Game Developer, Musician, Designer
+Software Developer, Musician, Designer
 ----------------------------------
 
-I've been learning how to code for nearly 4 years, after transitioning out of the music Industry I found that I have a passion for game development and design
+I've been learning how to code for nearly 4 years, after transitioning out of the music Industry I found that I have a passion for software/game development and design
 
 * 🌍  I'm based in Dallas, TX
 * 🖥️  See my portfolio at [o1wilson.github.io/Portfolio/](http://o1wilson.github.io/Portfolio/)
