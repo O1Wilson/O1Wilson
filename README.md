@@ -15,7 +15,7 @@ I'm a passionate software and game developer based in Dallas, TX. I transitioned
 ## Open to Opportunities
 I'm based in Dallas, TX, but I'm open to relocating/working remotely.
 
-* 🖥️  See my portfolio at [o1wilson.github.io/Portfolio/](http://o1wilson.github.io/Portfolio/)
+* 🖥️  See my portfolio at [https://o1wilson.github.io/](https://o1wilson.github.io/)
 * ✉️  You can contact me at [O1Wilson2005@gmail.com](mailto:O1Wilson2005@gmail.com)
 * 🚀  I'm currently working on [FullStack_01](https://github.com/O1Wilson/FullStack_01)
 
