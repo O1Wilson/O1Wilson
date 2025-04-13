@@ -14,7 +14,7 @@ I'm based in Dallas, TX, but I'm open to relocating/working remotely.
 
 * 🖥️  See my portfolio at [https://o1wilson.github.io/](https://o1wilson.github.io/)
 * ✉️  You can contact me at [O1Wilson2005@gmail.com](mailto:O1Wilson2005@gmail.com)
-* 🚀  I'm currently working on [PseduoNoiseSim]((https://github.com/O1Wilson/PseudoNoiseSim))
+* 🚀  I'm currently working on [PseduoNoiseSim](https://github.com/O1Wilson/PseudoNoiseSim)
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
