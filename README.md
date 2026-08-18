@@ -1,26 +1,24 @@
-# Hi 👋 My name is Owen Wilson
-============================
+# Hi, My name is Owen Wilson
+======================================
 
 ## About Me
-I'm a passionate software and game developer based in Dallas, TX. I transitioned from the music industry to the world of coding and have been honing my skills for nearly 5 years. I am a current undergraduate Computer Science Major, with my focus on computational development and its applications towards graphics programming in game development. 
+I'm a graphics programmer and game developer based in Dallas, TX. I transitioned from the music industry to the world of game development and have been coding since 2020. My focus is on computational development and its applications towards graphics programming in game development. 
 
 ## Skills
-- **Programming Languages**: Python, C#, C++, HLSL
-- **Game Development**: Unreal Engine, Unity
-- **Tools**: Vulkan, DirectX, OpenGl
+- **Programming Languages**: C++, C#
+- **Game Engine**: Unreal Engine, Unity
+- **Tools**: OpenGL, Vulkan, DirectX
 
-## Open to Opportunities
-I'm based in Dallas, TX, but I'm open to relocating/working remotely.
+## Projects:
 
-* 🖥️  See my portfolio at [https://o1wilson.github.io/](https://o1wilson.github.io/)
-* ✉️  You can contact me at [O1Wilson2005@gmail.com](mailto:O1Wilson2005@gmail.com)
-* 🚀  I'm currently working on [GLFluidSim](https://github.com/O1Wilson/GLFLuidSim)
+* See my portfolio at [https://o1wilson.github.io/](https://o1wilson.github.io/)
+* [Game Engine](https://github.com/O1Wilson/Game-Engine)
+* [GLFluidSim](https://github.com/O1Wilson/GLFLuidSim)
+* [OpenGL Shader Project](https://github.com/O1Wilson/OpenGL-Rendering-Project)
+* [HLSL Compute Shader](https://github.com/O1Wilson/ComputeShaderGraph)
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-</p>
+### LinkedIn
 
-
-### Socials
+https://www.linkedin.com/in/owen-wilson-861147225
 
 <a href="https://www.linkedin.com/in/owen-wilson-861147225" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
