@@ -12,10 +12,10 @@ I'm a graphics programmer and game developer based in Dallas, TX. I transitioned
 ## Projects:
 
 * See my portfolio at [https://o1wilson.github.io/](https://o1wilson.github.io/)
-* [Game Engine](https://github.com/O1Wilson/Game-Engine)
-* [GLFluidSim](https://github.com/O1Wilson/GLFLuidSim)
-* [OpenGL Shader Project](https://github.com/O1Wilson/OpenGL-Rendering-Project)
-* [HLSL Compute Shader](https://github.com/O1Wilson/ComputeShaderGraph)
+* [Game Engine](https://github.com/O1Wilson/Game-Engine): Game engine built from scratch using OpenGL as the GraphicsAPI. (Vulkan coming soon)
+* [GLFluidSim](https://github.com/O1Wilson/GLFLuidSim): OpenGL fluid simulation modeled after Jos Stam's "Stable Fluids" research paper.
+* [OpenGL Shader Project](https://github.com/O1Wilson/OpenGL-Rendering-Project) Short OpenGL project that incorporates basic fundamentals of the API.
+* [HLSL Compute Shader](https://github.com/O1Wilson/ComputeShaderGraph) Compute shader built in Unity, attached with Job Systems and other optimizations.
 
 ### LinkedIn
 
