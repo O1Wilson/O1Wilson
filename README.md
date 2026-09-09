@@ -23,3 +23,7 @@ See my portfolio at [https://o1wilson.github.io/](https://o1wilson.github.io/)
 https://www.linkedin.com/in/owen-wilson-861147225
 
 <a href="https://www.linkedin.com/in/owen-wilson-861147225" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Udemy
+
+[Udemy](https://www.udemy.com/user/2b118489-3652-426d-9ee5-1fca593d9df7/) - I would recommend all of these courses.
